@@ -3,10 +3,10 @@ import {useState} from "react"
 import GoogleMapReact from "google-map-react"
 import FireMarker  from "./Icons/FireMarker"
 import VolcanoMarker  from "./Icons/VolcanoMarker"
-import HurricaneMarker  from "./Icons/HurricaneMarker"
+//import HurricaneMarker  from "./Icons/HurricaneMarker"
 import EventInfoBox from "./EventInfoBox"
 
-const coordinatesList = []
+//const coordinatesList = []
 
 
 const Map = ({ eventData, center, zoom}) => {
